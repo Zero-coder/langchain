@@ -35,8 +35,7 @@ This library aims to assist in the development of those types of applications. C
 
 - [Documentation](https://langchain.readthedocs.io/en/latest/use_cases/question_answering.html)
 - End-to-end Example: [Question Answering over Notion Database](https://github.com/hwchase17/notion-qa)
-** LangChain 中文入门教程 **
-https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide
+- [LangChain 中文入门教程](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide)
 **💬 Chatbots**
 
 - [Documentation](https://langchain.readthedocs.io/en/latest/use_cases/chatbots.html)
